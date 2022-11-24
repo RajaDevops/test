@@ -1,2 +1,3 @@
 new file 1 
  new file1 data append
+ new line append 
